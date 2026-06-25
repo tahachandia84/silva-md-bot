@@ -2,7 +2,7 @@
   "name": "silva-md",
   "description": "Silva MD — A feature-rich multi-device WhatsApp bot with 1200+ commands, AI agent, auto-status, anti-delete, sudo system, and 19 smart features. Built with Node.js and Baileys.",
   "keywords": ["silva-md", "whatsapp", "baileys", "bot", "multi-device", "ai", "chatbot", "whatsapp-bot", "nodejs"],
-  "logo": "https://files.catbox.moe/5uli5p.jpeg",
+  "logo": "https://i.imgur.com/1tUVG85.jpeg",
   "repository": "https://github.com/SilvaTechB/silva-md-bot",
   "website": "https://silvatech.co.ke",
   "success_url": "/",
@@ -14,7 +14,7 @@
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number with country code (e.g. 254712345678).",
+      "description": "Owner WhatsApp number with country code (e.g. 923291489055).",
       "required": true,
       "value": ""
     },
@@ -46,7 +46,7 @@
     "ALIVE_IMG": {
       "description": "Image URL shown with the alive/menu command.",
       "required": false,
-      "value": "https://files.catbox.moe/5uli5p.jpeg"
+      "value": "https://i.imgur.com/1tUVG85.jpeg"
     },
     "GEMINI_API_KEY": {
       "description": "Google Gemini API key for advanced AI responses. Get it from ai.google.dev.",
